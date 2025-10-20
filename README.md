@@ -1,3 +1,9 @@
+## ABOVE LENDING NOTE:
+
+We should keep this repo up to date by [Syncing with the remote repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
+
+<img width="1440" height="549" alt="image" src="https://github.com/user-attachments/assets/49f9de47-d36b-445b-8db9-f413cb4b6ef0" />
+
 ## Note
 **Starting from Airflow version 2.9, MWAA has open-sourced the original Docker image used in production deployments. You can refer to MWAA open-source image repository at https://github.com/aws/amazon-mwaa-docker-images to create a local environment identical to that of MWAA.**
 
